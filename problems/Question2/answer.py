@@ -17,6 +17,19 @@ class Solution(object):
 
         return triangle
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Mathematical Method
 class Solution(object):
     #Generating Each Row By Formula
