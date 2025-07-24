@@ -4,29 +4,29 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        m = len(matrix)# Number of Rows 
-        n = len(matrix[0])# Number of Columns
+        #To store rows and columns that contain 0
+        row = []
+        col = []
 
-        #Default Holder Row and Column
-        row = [False] * m
-        col = [False] * n
-
-        #Found where the 0 exist
-        for i in range(m):
-            for j in range(n):
+        #To find zeroes in the matrix
+        for i in range(len(matrix)):
+            for j in range(len(matrix[i])):
                 if matrix[i][j] == 0:
-                    #There is a zero present
-                    row[i] = True
-                    col[j] = True
-        
-        #Zero out rows
-        for i in range(m):
-            if row[i] == True:
-                for j in range(n):
-                    matrix[i][j] = 0
+                    row.append(i)
+                    col.append(j)
 
-        #Zero out column
-        for j in range(n):
-            if col[j] == True:
-                for i in range(m):
-                    matrix[i][j] = 0
+        #Convert to set to avoid duplicates
+        row_set = set(row)
+        col_set = set(col)
+
+        #To Zero out Rows
+        for i in row_set:
+            for j in range(len(matrix[i])):
+                matrix[i][j] = 0
+
+        #To Zero out Columns
+        for i in range(len(matrix)):
+            for j in col_set:
+                matrix[i][j] = 0
+                
+        
