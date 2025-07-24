@@ -3,5 +3,10 @@
         "number": "001",
         "title": "Set Matrix Zeroes",
         "folder": "Question1"
+    },
+    {
+        "number": "002",
+        "title": "Pascal's Triangle",
+        "folder": "Question2"
     }
 ]
