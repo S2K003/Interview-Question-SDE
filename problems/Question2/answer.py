@@ -26,10 +26,6 @@ class Solution(object):
 
 
 
-
-
-
-
 #Mathematical Method
 class Solution(object):
     #Generating Each Row By Formula

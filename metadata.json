@@ -8,5 +8,25 @@
         "number": "002",
         "title": "Pascal's Triangle",
         "folder": "Question2"
+    },
+    {
+        "number": "003",
+        "title": "Next Permutation",
+        "folder": "Question3"
+    },
+    {
+        "number": "004",
+        "title": "Maximum Subarray",
+        "folder": "Question4"
+    },
+    {
+        "number": "075",
+        "title": "Sort Colors",
+        "folder": "Question5"
+    },
+    {
+        "number": "006",
+        "title": "Best Time to Buy and Sell Stock",
+        "folder": "Question6"
     }
 ]
