@@ -10,6 +10,16 @@
         "folder": "Question10"
     },
     {
+        "number": "011",
+        "title": "Missing and Repeating in an Array",
+        "folder": "Question11"
+    },
+    {
+        "number": "012",
+        "title": "Count inversions in an array",
+        "folder": "Question12"
+    },
+    {
         "number": "002",
         "title": "Pascal's Triangle",
         "folder": "Question2"
