@@ -5,6 +5,11 @@
         "folder": "Question1"
     },
     {
+        "number": "010",
+        "title": "Find the Duplicate Number [Tortoise - Hare [Flloyd]]",
+        "folder": "Question10"
+    },
+    {
         "number": "002",
         "title": "Pascal's Triangle",
         "folder": "Question2"
@@ -28,5 +33,20 @@
         "number": "006",
         "title": "Best Time to Buy and Sell Stock",
         "folder": "Question6"
+    },
+    {
+        "number": "048",
+        "title": "Rotate Image",
+        "folder": "Question7"
+    },
+    {
+        "number": "008",
+        "title": "Merge Intervals",
+        "folder": "Question8"
+    },
+    {
+        "number": "009",
+        "title": "Merge Sorted Array",
+        "folder": "Question9"
     }
 ]
