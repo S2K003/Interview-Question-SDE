@@ -1,4 +1,4 @@
-""""
+
 #Merge Sort
 def mergeSort(arr):
     # Base Case
@@ -40,7 +40,7 @@ def merge(left, right):
 # Test case
 arr = [4, 3, 2, 1, 5]
 print(mergeSort(arr))  # Output: [1, 2, 3, 4, 5]
-"""
+
 
 
 def countInversions(arr):
