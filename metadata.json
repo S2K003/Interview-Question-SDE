@@ -50,9 +50,24 @@
         "folder": "Question18"
     },
     {
+        "number": "019",
+        "title": "Two Sum",
+        "folder": "Question19"
+    },
+    {
         "number": "002",
         "title": "Pascal's Triangle",
         "folder": "Question2"
+    },
+    {
+        "number": "020",
+        "title": "4Sum",
+        "folder": "Question20"
+    },
+    {
+        "number": "021",
+        "title": "Longest Consecutive Sequence",
+        "folder": "Question21"
     },
     {
         "number": "003",
