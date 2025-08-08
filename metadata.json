@@ -90,6 +90,11 @@
         "folder": "Question26"
     },
     {
+        "number": "027",
+        "title": "Merge Two Sorted Lists",
+        "folder": "Question27"
+    },
+    {
         "number": "003",
         "title": "Next Permutation",
         "folder": "Question3"
