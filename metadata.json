@@ -70,6 +70,26 @@
         "folder": "Question21"
     },
     {
+        "number": "022",
+        "title": "Longest Subarray With Zero Sum",
+        "folder": "Question22"
+    },
+    {
+        "number": "023",
+        "title": "Count the number of subarrays with given xor K",
+        "folder": "Question23"
+    },
+    {
+        "number": "025",
+        "title": "Reverse Linked List",
+        "folder": "Question25"
+    },
+    {
+        "number": "026",
+        "title": "Middle of The Linked List",
+        "folder": "Question26"
+    },
+    {
         "number": "003",
         "title": "Next Permutation",
         "folder": "Question3"
