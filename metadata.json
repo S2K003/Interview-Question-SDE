@@ -3,5 +3,10 @@
         "number": "001",
         "title": "[LeetCode 1929 : Concatenation of Array]",
         "folder": "Question1"
+    },
+    {
+        "number": "002",
+        "title": "[LeetCode 217 : Contains Duplicates]",
+        "folder": "Question2"
     }
 ]
