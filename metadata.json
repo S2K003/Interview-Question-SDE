@@ -23,5 +23,15 @@
         "number": "005",
         "title": "[Leetcode 14 : Longest Common Prefix]",
         "folder": "Question5"
+    },
+    {
+        "number": "006",
+        "title": "[ LeetCode 49 : Group Anagrams]",
+        "folder": "Question6"
+    },
+    {
+        "number": "007",
+        "title": "[LeetCode 27 : Remove Element]",
+        "folder": "Question7"
     }
 ]
