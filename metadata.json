@@ -8,5 +8,10 @@
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
+    },
+    {
+        "number": "003",
+        "title": "[ LeetCode 242 : Valid Anagram]",
+        "folder": "Question3"
     }
 ]
