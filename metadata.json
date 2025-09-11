@@ -13,5 +13,10 @@
         "number": "003",
         "title": "[ LeetCode 242 : Valid Anagram]",
         "folder": "Question3"
+    },
+    {
+        "number": "004",
+        "title": "[ LeetCode 1 : Two Sum]",
+        "folder": "Question4"
     }
 ]
