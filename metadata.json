@@ -38,5 +38,10 @@
         "number": "008",
         "title": "[ LeetCode 169 : Majority Element ]",
         "folder": "Question8"
+    },
+    {
+        "number": "009",
+        "title": "[LeetCode 705 : Design HashSet ]",
+        "folder": "Question9"
     }
 ]
