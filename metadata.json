@@ -5,6 +5,11 @@
         "folder": "Question1"
     },
     {
+        "number": "010",
+        "title": "Design HashSet",
+        "folder": "Question10"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
