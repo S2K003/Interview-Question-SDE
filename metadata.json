@@ -33,5 +33,10 @@
         "number": "007",
         "title": "[LeetCode 27 : Remove Element]",
         "folder": "Question7"
+    },
+    {
+        "number": "008",
+        "title": "[ LeetCode 169 : Majority Element ]",
+        "folder": "Question8"
     }
 ]
