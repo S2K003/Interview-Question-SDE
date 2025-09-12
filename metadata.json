@@ -10,6 +10,11 @@
         "folder": "Question10"
     },
     {
+        "number": "011",
+        "title": "[ LeetCode 912 : Sort an Array]",
+        "folder": "Question11"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
