@@ -30,6 +30,11 @@
         "folder": "Question14"
     },
     {
+        "number": "015",
+        "title": "[ LeetCode 128 : Longest Consecutive Sequence]",
+        "folder": "Question15"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
