@@ -20,6 +20,11 @@
         "folder": "Question12"
     },
     {
+        "number": "013",
+        "title": "[ LeetCode 347 : Top K Frequent Elements]",
+        "folder": "Question13"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
