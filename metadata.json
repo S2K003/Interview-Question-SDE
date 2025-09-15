@@ -35,6 +35,16 @@
         "folder": "Question15"
     },
     {
+        "number": "016",
+        "title": "[ LeetCode 121 : Best Time to Buy and Sell Stock ]",
+        "folder": "Question16"
+    },
+    {
+        "number": "017",
+        "title": "[LeetCode 122 : Best Time to Buy and Sell Stock II ]",
+        "folder": "Question17"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
