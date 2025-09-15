@@ -45,6 +45,11 @@
         "folder": "Question17"
     },
     {
+        "number": "018",
+        "title": "[ LeetCode 229 : Majority Element II]",
+        "folder": "Question18"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
