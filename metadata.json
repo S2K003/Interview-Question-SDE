@@ -75,6 +75,11 @@
         "folder": "Question22"
     },
     {
+        "number": "023",
+        "title": "[ LeetCode 1768 :  Merge Strings Alternately]",
+        "folder": "Question23"
+    },
+    {
         "number": "003",
         "title": "[ LeetCode 242 : Valid Anagram]",
         "folder": "Question3"
