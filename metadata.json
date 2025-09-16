@@ -80,6 +80,11 @@
         "folder": "Question23"
     },
     {
+        "number": "024",
+        "title": "[ LeetCode 88 : Merge Sorted Array]",
+        "folder": "Question24"
+    },
+    {
         "number": "003",
         "title": "[ LeetCode 242 : Valid Anagram]",
         "folder": "Question3"
