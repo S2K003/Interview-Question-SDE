@@ -50,9 +50,19 @@
         "folder": "Question18"
     },
     {
+        "number": "019",
+        "title": "[LeetCode 560 : Subarray Sum Equals K ]",
+        "folder": "Question19"
+    },
+    {
         "number": "002",
         "title": "[LeetCode 217 : Contains Duplicates]",
         "folder": "Question2"
+    },
+    {
+        "number": "020",
+        "title": "[LeetCode 344 : Reverse String]",
+        "folder": "Question20"
     },
     {
         "number": "003",
