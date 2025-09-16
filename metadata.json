@@ -65,6 +65,11 @@
         "folder": "Question20"
     },
     {
+        "number": "021",
+        "title": "[LeetCode 125 : Valid Palindrome]",
+        "folder": "Question21"
+    },
+    {
         "number": "003",
         "title": "[ LeetCode 242 : Valid Anagram]",
         "folder": "Question3"
