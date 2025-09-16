@@ -85,6 +85,11 @@
         "folder": "Question24"
     },
     {
+        "number": "025",
+        "title": "[ LeetCode 26 : Remove Duplicates from Sorted Array]",
+        "folder": "Question25"
+    },
+    {
         "number": "003",
         "title": "[ LeetCode 242 : Valid Anagram]",
         "folder": "Question3"
